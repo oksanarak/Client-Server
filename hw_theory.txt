@@ -69,15 +69,20 @@
 
 
 5. Что такое ядро браузера.
-Браузер=оболочка+ядро
-Ядро - это программа или модуль, который отображает контент на основе языка разметки. Ядро браузера можно разделить на две части: движок рендеринга (инженер макета или движок рендеринга) и движок JS. Он отвечает за получение содержимого веб-страницы (HTML, XML, изображения), организацию информации (добавление CSS) и расчет режима отображения веб-страницы, а затем вывод ее на монитор. 
+Ядро (движок) браузера - это программа или модуль, который отображает контент на основе языка разметки; представляет собой программу, преобразующую содержимое веб-страниц (файлы HTML, XML, цифровые изображения) и информацию о форматировании (в форматах CSS, XSL) в интерактивное изображение форматированного содержимого на экране.
 
 6. Какие браузеры какие ядра используют.
-Internet Explorer - Trident
-Firefox - Gecko
-Opera - Blink+V8
-Safari - Webkit
-Chrome - Blink+V8
-Sogou - Trident+WebKit
+Blink - Google Chrome, Opera 15+, Microsoft Edge
+EdgeHTML - Microsoft Edge
+Gecko - Mozilla Firefox
+GtkHTML - Novell Evolution
+KHTML - Konqueror
+Presto - Opera
+Prince XML - Prince XML
+Robin - The Bat!
+Tasman - Microsoft Entourage
+Trident - Internet Explorer
+WebKit - Google, Chrome, Safari
+XEP - XEP
 
 
